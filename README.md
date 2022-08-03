@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![캔들차트](https://user-images.githubusercontent.com/108919698/182627948-01da7eb0-6857-4c0d-9e7d-0f674c606052.png)
+![바차트](https://user-images.githubusercontent.com/108919698/182627954-a4bae489-4c1e-47ce-a7dd-ae440a604ed6.png)
+![이동평균선](https://user-images.githubusercontent.com/108919698/182627955-b3c06250-bf2c-4371-8f96-961ce474bc61.png)
+![차트이미지](https://user-images.githubusercontent.com/108919698/182627962-1fd191a8-ab09-4826-9d67-9600279b5b37.png)
+![첫차트이미지](https://user-images.githubusercontent.com/108919698/182627965-942a0345-ce92-40b2-a999-1d3d47e70f16.jpg)
